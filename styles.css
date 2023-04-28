@@ -6,7 +6,7 @@ p::before{
 	font-weight: bold;
 }
 p::after{
-	content: "After Element";
+	content: " After Element";
 	color: #FE5C57;
 	font-size: 20px;
 	font-weight: bold;
